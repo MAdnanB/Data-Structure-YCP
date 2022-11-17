@@ -26,6 +26,6 @@ public class MyLinkedList {
 		this.next = next;
 	}
 	
-	
+ 
 	
 }
