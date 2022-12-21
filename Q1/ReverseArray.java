@@ -23,4 +23,4 @@ public class ReverseArray {
 		System.out.print(s.pop()+" ");}
 	}
 
-}
+}//adnan bhai jindabad
